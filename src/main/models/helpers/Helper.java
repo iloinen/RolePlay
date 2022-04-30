@@ -2,6 +2,7 @@ package main.models.helpers;
 
 import main.models.Player;
 
+@Deprecated
 public class Helper {
 
     private HelperType type;

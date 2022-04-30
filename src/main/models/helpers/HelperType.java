@@ -1,5 +1,6 @@
 package main.models.helpers;
 
+@Deprecated
 public enum HelperType {
 
     BARD,
