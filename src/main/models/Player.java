@@ -1,6 +1,5 @@
 package main.models;
 
-import main.models.helpers.Helper;
 import main.models.helpers.HelperInterface;
 
 public class Player {
